@@ -1,0 +1,101 @@
+ID,Centro de Custo,Valor,Data,Descrição
+1,RH004,-2756.01,2024-02-12,Reembolso incorreto
+2,LOG003,199.03,2024-09-13,Treinamento de equipe
+3,MKT005,4249.55,2024-03-15,Reembolso incorreto
+4,LOG003,-660.6,2024-05-28,Teste de validação
+5,MKT005,8042.25,2024-02-04,Pagamento aprovado
+6,RH004,-4047.0,2024-02-20,Despesas administrativas
+7,ADM002,4621.31,2024-03-25,Pagamento aprovado
+8,ADM002,6581.88,2024-04-10,Teste de validação
+9,RH004,-3253.03,2024-10-16,Treinamento de equipe
+10,,8764.79,2024-08-23,Reembolso incorreto
+11,MKT005,-3337.12,2024-02-23,Treinamento de equipe
+12,ADM002,9234.4,2024-09-10,Compra de material
+13,,-3325.13,2024-08-13,Treinamento de equipe
+14,MKT005,7040.98,2024-05-27,Reembolso incorreto
+15,FIN001,7992.67,2024-10-05,Serviço terceirizado
+16,RH004,5214.27,2024-10-27,Despesas administrativas
+17,MKT005,2410.9,2024-04-04,Pagamento aprovado
+18,ADM002,4510.5,2024-09-22,Teste de validação
+19,,2594.63,2024-04-27,Teste de validação
+20,ADM002,-2389.25,2024-07-02,Teste de validação
+21,MKT005,6216.52,2024-07-08,Despesas administrativas
+22,RH004,-4403.5,2024-05-21,Teste de validação
+23,FIN001,1830.07,2024-01-18,Treinamento de equipe
+24,ADM002,7742.25,2024-01-04,Compra de material
+25,LOG003,4460.75,2024-09-04,Compra de material
+26,FIN001,-1733.75,2024-05-22,Treinamento de equipe
+27,RH004,5969.48,2024-01-31,Teste de validação
+28,MKT005,-2814.56,2024-04-09,Treinamento de equipe
+29,ADM002,-1991.17,2024-04-09,Teste de validação
+30,RH004,8101.94,2024-08-11,Despesas administrativas
+31,MKT005,1433.12,2024-04-22,Despesas administrativas
+32,,9907.22,2024-07-11,Reembolso incorreto
+33,,1328.27,2024-04-11,Despesas administrativas
+34,RH004,-401.32,2024-09-24,Pagamento aprovado
+35,,8676.0,2024-01-02,Teste de validação
+36,ADM002,2225.23,2024-02-03,Serviço terceirizado
+37,MKT005,6532.84,2024-08-21,Pagamento aprovado
+38,FIN001,-4777.06,2024-01-01,Treinamento de equipe
+39,LOG003,3814.3,2024-10-15,Reembolso incorreto
+40,LOG003,8149.59,2024-06-28,Despesas administrativas
+41,LOG003,5215.92,2024-09-23,Treinamento de equipe
+42,LOG003,-1896.34,2024-02-10,Reembolso incorreto
+43,RH004,-4224.54,2024-06-11,Serviço terceirizado
+44,MKT005,-2200.26,2024-07-20,Serviço terceirizado
+45,RH004,1343.75,2024-09-06,Teste de validação
+46,FIN001,6057.9,2024-07-07,Reembolso incorreto
+47,FIN001,4169.03,2024-09-08,Teste de validação
+48,RH004,2.14,2024-03-31,Compra de material
+49,FIN001,-525.67,2024-10-07,Reembolso incorreto
+50,FIN001,8195.78,2024-05-11,Compra de material
+51,RH004,-4159.15,2024-03-20,Compra de material
+52,LOG003,-1502.25,2024-02-02,Pagamento aprovado
+53,LOG003,4267.04,2024-05-03,Despesas administrativas
+54,ADM002,-2396.6,2024-09-21,Serviço terceirizado
+55,,9709.0,2024-10-26,Serviço terceirizado
+56,ADM002,9055.35,2024-10-23,Compra de material
+57,ADM002,8778.48,2024-09-27,Compra de material
+58,RH004,-4694.37,2024-05-23,Compra de material
+59,LOG003,7014.09,2024-02-14,Compra de material
+60,LOG003,6897.8,2024-03-17,Compra de material
+61,MKT005,-2554.28,2024-06-29,Pagamento aprovado
+62,MKT005,-2681.02,2024-06-13,Despesas administrativas
+63,ADM002,-4061.83,2024-08-01,Pagamento aprovado
+64,MKT005,4779.18,2024-04-14,Serviço terceirizado
+65,ADM002,-2905.42,2024-05-29,Teste de validação
+66,RH004,7852.91,2024-09-19,Serviço terceirizado
+67,RH004,3923.62,2024-04-08,Pagamento aprovado
+68,MKT005,2242.62,2024-01-28,Treinamento de equipe
+69,MKT005,1607.69,2024-03-31,Pagamento aprovado
+70,RH004,5432.1,2024-09-10,Compra de material
+71,,2886.67,2024-07-07,Serviço terceirizado
+72,LOG003,9238.69,2024-01-16,Teste de validação
+73,ADM002,3560.78,2024-10-27,Pagamento aprovado
+74,ADM002,-3414.21,2024-07-26,Treinamento de equipe
+75,FIN001,3523.47,2024-10-02,Treinamento de equipe
+76,RH004,-3377.8,2024-07-03,Reembolso incorreto
+77,ADM002,5471.81,2024-04-23,Serviço terceirizado
+78,ADM002,8953.23,2024-01-27,Treinamento de equipe
+79,RH004,8736.74,2024-02-08,Despesas administrativas
+80,MKT005,5907.35,2024-03-21,Treinamento de equipe
+81,RH004,8784.14,2024-03-05,Compra de material
+82,MKT005,5483.94,2024-01-16,Pagamento aprovado
+83,LOG003,1902.64,2024-08-26,Treinamento de equipe
+84,LOG003,9847.58,2024-04-27,Treinamento de equipe
+85,LOG003,848.8,2024-04-30,Serviço terceirizado
+86,FIN001,8801.8,2024-06-30,Serviço terceirizado
+87,MKT005,1559.79,2024-06-24,Reembolso incorreto
+88,LOG003,4685.8,2024-02-11,Reembolso incorreto
+89,MKT005,4663.65,2024-10-24,Despesas administrativas
+90,ADM002,7237.57,2024-07-03,Pagamento aprovado
+91,,5842.83,2024-02-23,Reembolso incorreto
+92,RH004,-4783.43,2024-06-17,Despesas administrativas
+93,LOG003,2926.33,2024-09-15,Teste de validação
+94,FIN001,5268.4,2024-09-22,Reembolso incorreto
+95,FIN001,703.99,2024-07-22,Compra de material
+96,MKT005,3284.46,2024-03-16,Teste de validação
+97,,-1995.82,2024-03-07,Reembolso incorreto
+98,MKT005,4928.82,2024-03-13,Treinamento de equipe
+99,,2953.98,2024-07-10,Compra de material
+100,ADM002,-1218.51,2024-07-20,Reembolso incorreto
